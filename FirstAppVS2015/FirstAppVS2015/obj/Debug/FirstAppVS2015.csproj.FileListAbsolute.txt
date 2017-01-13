@@ -1,0 +1,9 @@
+G:\FirstAppVS2015\FirstAppVS2015\bin\Debug\FirstAppVS2015.exe.config
+G:\FirstAppVS2015\FirstAppVS2015\bin\Debug\FirstAppVS2015.exe
+G:\FirstAppVS2015\FirstAppVS2015\bin\Debug\FirstAppVS2015.pdb
+G:\FirstAppVS2015\FirstAppVS2015\obj\Debug\FirstAppVS2015.csprojResolveAssemblyReference.cache
+G:\FirstAppVS2015\FirstAppVS2015\obj\Debug\FirstAppVS2015.exe
+G:\FirstAppVS2015\FirstAppVS2015\obj\Debug\FirstAppVS2015.pdb
+C:\Users\appalaraju\Source\Repos\TestAapp\FirstAppVS2015\FirstAppVS2015\bin\Debug\FirstAppVS2015.exe.config
+C:\Users\appalaraju\Source\Repos\TestAapp\FirstAppVS2015\FirstAppVS2015\obj\Debug\FirstAppVS2015.exe
+C:\Users\appalaraju\Source\Repos\TestAapp\FirstAppVS2015\FirstAppVS2015\obj\Debug\FirstAppVS2015.pdb
