@@ -43,5 +43,10 @@ namespace FirstAppVS2015
 
             return str.Trim();
         }
+
+        public int AddTwoNumbers(int a, int b)
+        {
+            return a + b;
+        }
     }
 }
