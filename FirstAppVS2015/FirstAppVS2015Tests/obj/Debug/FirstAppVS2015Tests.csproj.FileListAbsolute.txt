@@ -1,8 +1,0 @@
-G:\FirstAppVS2015\FirstAppVS2015Tests\bin\Debug\FirstAppVS2015Tests.dll
-G:\FirstAppVS2015\FirstAppVS2015Tests\bin\Debug\FirstAppVS2015Tests.pdb
-G:\FirstAppVS2015\FirstAppVS2015Tests\bin\Debug\FirstAppVS2015.exe
-G:\FirstAppVS2015\FirstAppVS2015Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-G:\FirstAppVS2015\FirstAppVS2015Tests\bin\Debug\FirstAppVS2015.pdb
-G:\FirstAppVS2015\FirstAppVS2015Tests\obj\Debug\FirstAppVS2015Tests.csprojResolveAssemblyReference.cache
-G:\FirstAppVS2015\FirstAppVS2015Tests\obj\Debug\FirstAppVS2015Tests.dll
-G:\FirstAppVS2015\FirstAppVS2015Tests\obj\Debug\FirstAppVS2015Tests.pdb
